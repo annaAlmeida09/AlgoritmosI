@@ -1,0 +1,64 @@
+Insomnia
+1
+2002
+Christopher Nolan
+Interstellar
+1
+2014
+Christopher Nolan
+Tenet
+1
+2020
+Christopher Nolan
+Spirited Away
+2
+2001
+AniHayao Miyazaki
+Princess Mononoke
+2
+1997
+AniHayao Miyazaki
+Howls Moving Castle
+2
+2004
+AniHayao Miyazaki
+Hot Fuzz
+3
+2007
+CoEdgar Wright
+We are the Millers
+3
+2013
+Rawson Marshall Thurber
+Blade Runner 2049
+4
+2017
+Denis Villeneuve
+Star Wars: Episode IV - a new hope
+4
+1997
+George Lucas
+The Martian
+4
+2015
+Ridley Scott
+Hereditary
+5
+2018
+Ari Aster
+The exorcist
+5
+1973
+William Friedkin
+Before Sunrise
+6
+1995
+Richard Linklater
+Call me by your name
+6
+2017
+Luca Guadagnino
+Before Midnight
+6
+2013
+Richard Linklater
